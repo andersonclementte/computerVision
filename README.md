@@ -1,6 +1,6 @@
 # README
 
-Este repositório possui as atividades desenvolvidas na disciplina de Visão Computacional usando a biblioteca Opencv e redes neurais profundas.
+Este repositório possui as atividades desenvolvidas na disciplina de Visão Computacional usando as bibliotecas Opencv e TensorFlow.
 
 ## Lista 1
 
